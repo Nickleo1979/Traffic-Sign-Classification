@@ -5,3 +5,4 @@ pink
 yellow
 green
 purple
+violet
