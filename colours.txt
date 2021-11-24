@@ -1,8 +1,0 @@
-red
-black
-orange
-pink
-yellow
-green
-purple
-violet
